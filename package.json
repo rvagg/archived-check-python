@@ -1,0 +1,15 @@
+{
+  "name": "check-python",
+  "version": "1.0.0",
+  "description": "Check for Python on the current system and return the value",
+  "main": "check-python.js",
+  "scripts": {
+  },
+  "author": "Rod Vagg <r@va.gg> (http://r.va.gg/)",
+  "license": "MIT",
+  "dependencies": {
+    "semver": "~2.3.1",
+    "which": "~1.0.5",
+    "xtend": "~3.0.0"
+  }
+}

@@ -4,6 +4,7 @@
   "description": "Check for Python on the current system and return the value",
   "main": "check-python.js",
   "scripts": {
+    "test": "node test.js"
   },
   "author": "Rod Vagg <r@va.gg> (http://r.va.gg/)",
   "license": "MIT",
